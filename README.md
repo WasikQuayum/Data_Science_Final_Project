@@ -49,7 +49,8 @@ Following investigation has been done:
 <img width="341" alt="rf_classification_report" src="https://user-images.githubusercontent.com/57408209/133418847-80880e98-cadd-4553-ac24-2461136cff1e.PNG">
 -[Confusion Matrix]
 ### Confusion Matrix
-![rff_confusions](https://user-images.githubusercontent.com/57408209/133419643-7b720559-5e4b-4754-b477-b810cc92b288.png)
+
+![confusion](https://user-images.githubusercontent.com/57408209/133420202-13881675-7f52-4cff-85f0-54edc33402bc.png)
 
 ## ROC Curve
 ![roc](https://user-images.githubusercontent.com/57408209/133418890-4b548c23-3864-479f-8c69-67756c834b79.png)
