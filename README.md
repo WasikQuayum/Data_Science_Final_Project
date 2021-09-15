@@ -34,3 +34,7 @@ Following investigation has been done:
 
 ![fundal_height](https://user-images.githubusercontent.com/57408209/133417562-862dde3e-ba3d-4f69-9329-346125fde50f.png)
 ![mother_age](https://user-images.githubusercontent.com/57408209/133417670-12ce2d22-0eac-4967-9667-498f7af11f52.png)
+
+## Model Summary
+
+<img width="381" alt="model_summary" src="https://user-images.githubusercontent.com/57408209/133418001-71722623-65c6-45f3-b494-0ff691f520ba.PNG">
