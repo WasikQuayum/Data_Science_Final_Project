@@ -39,16 +39,17 @@ Following investigation has been done:
 
 <img width="381" alt="model_summary" src="https://user-images.githubusercontent.com/57408209/133418001-71722623-65c6-45f3-b494-0ff691f520ba.PNG">
 
-## Logistic Regression
+## Logistic Regression 
 (<img width="414" alt="lr_t_accuracy" src="https://user-images.githubusercontent.com/57408209/133418203-0b7fff87-8e5a-404c-886f-4d5277c28858.PNG">)
 <img width="355" alt="lr_classification_report" src="https://user-images.githubusercontent.com/57408209/133418214-3992b444-d767-4c84-8e55-6444141a418f.PNG">
+## Confusion Matrix for Logistic Regression
 ![lr_confusion](https://user-images.githubusercontent.com/57408209/133418229-4e667455-05d4-41e7-bb3a-3fabc0deac73.png)
 
 ## Random Forest
 <img width="414" alt="rf_t_accuracy" src="https://user-images.githubusercontent.com/57408209/133418835-dc049046-032d-46cf-816a-2444316d5a45.PNG">
 <img width="341" alt="rf_classification_report" src="https://user-images.githubusercontent.com/57408209/133418847-80880e98-cadd-4553-ac24-2461136cff1e.PNG">
 
-## 
+## Confusion Matrix for Random Forest
 
 ![confusion](https://user-images.githubusercontent.com/57408209/133420202-13881675-7f52-4cff-85f0-54edc33402bc.png)
 
