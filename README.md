@@ -41,7 +41,9 @@ Following investigation has been done:
 
 ## Logistic Regression 
 (<img width="414" alt="lr_t_accuracy" src="https://user-images.githubusercontent.com/57408209/133418203-0b7fff87-8e5a-404c-886f-4d5277c28858.PNG">)
+
 <img width="355" alt="lr_classification_report" src="https://user-images.githubusercontent.com/57408209/133418214-3992b444-d767-4c84-8e55-6444141a418f.PNG">
+
 ## Confusion Matrix for Logistic Regression
 ![lr_confusion](https://user-images.githubusercontent.com/57408209/133418229-4e667455-05d4-41e7-bb3a-3fabc0deac73.png)
 
