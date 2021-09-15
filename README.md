@@ -48,7 +48,7 @@ Following investigation has been done:
 <img width="414" alt="rf_t_accuracy" src="https://user-images.githubusercontent.com/57408209/133418835-dc049046-032d-46cf-816a-2444316d5a45.PNG">
 <img width="341" alt="rf_classification_report" src="https://user-images.githubusercontent.com/57408209/133418847-80880e98-cadd-4553-ac24-2461136cff1e.PNG">
 -[Confusion Matrix]
-### Confusion Matrix
+##
 
 ![confusion](https://user-images.githubusercontent.com/57408209/133420202-13881675-7f52-4cff-85f0-54edc33402bc.png)
 
