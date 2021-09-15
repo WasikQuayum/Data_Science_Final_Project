@@ -47,7 +47,8 @@ Following investigation has been done:
 ## Random Forest
 <img width="414" alt="rf_t_accuracy" src="https://user-images.githubusercontent.com/57408209/133418835-dc049046-032d-46cf-816a-2444316d5a45.PNG">
 <img width="341" alt="rf_classification_report" src="https://user-images.githubusercontent.com/57408209/133418847-80880e98-cadd-4553-ac24-2461136cff1e.PNG">
-![rf_confusion](https://user-images.githubusercontent.com/57408209/133418859-7f3196e0-a7b1-442a-9c0f-53f844a9093a.png)
+-[Confusion Matrix]
+![rf_confusion](https://user-images.githubusercontent.com/57408209/133419220-70c51928-8983-4587-b304-28217d3831da.png)
 
 ## ROC Curve
 ![roc](https://user-images.githubusercontent.com/57408209/133418890-4b548c23-3864-479f-8c69-67756c834b79.png)
