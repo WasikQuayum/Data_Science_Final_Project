@@ -40,4 +40,4 @@ Following investigation has been done:
 <img width="381" alt="model_summary" src="https://user-images.githubusercontent.com/57408209/133418001-71722623-65c6-45f3-b494-0ff691f520ba.PNG">
 
 ## Logistic Regression
-[accuracy](<img width="414" alt="lr_t_accuracy" src="https://user-images.githubusercontent.com/57408209/133418203-0b7fff87-8e5a-404c-886f-4d5277c28858.PNG">)
+(<img width="414" alt="lr_t_accuracy" src="https://user-images.githubusercontent.com/57408209/133418203-0b7fff87-8e5a-404c-886f-4d5277c28858.PNG">)
