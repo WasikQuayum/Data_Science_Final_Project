@@ -41,3 +41,14 @@ Following investigation has been done:
 
 ## Logistic Regression
 (<img width="414" alt="lr_t_accuracy" src="https://user-images.githubusercontent.com/57408209/133418203-0b7fff87-8e5a-404c-886f-4d5277c28858.PNG">)
+<img width="355" alt="lr_classification_report" src="https://user-images.githubusercontent.com/57408209/133418214-3992b444-d767-4c84-8e55-6444141a418f.PNG">
+![lr_confusion](https://user-images.githubusercontent.com/57408209/133418229-4e667455-05d4-41e7-bb3a-3fabc0deac73.png)
+
+## Random Forest
+<img width="414" alt="rf_t_accuracy" src="https://user-images.githubusercontent.com/57408209/133418835-dc049046-032d-46cf-816a-2444316d5a45.PNG">
+<img width="341" alt="rf_classification_report" src="https://user-images.githubusercontent.com/57408209/133418847-80880e98-cadd-4553-ac24-2461136cff1e.PNG">
+![rf_confusion](https://user-images.githubusercontent.com/57408209/133418859-7f3196e0-a7b1-442a-9c0f-53f844a9093a.png)
+
+## ROC Curve
+![roc](https://user-images.githubusercontent.com/57408209/133418890-4b548c23-3864-479f-8c69-67756c834b79.png)
+
