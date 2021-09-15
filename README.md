@@ -28,4 +28,9 @@ Following investigation has been done:
 - Logistic Regression
 - Random Forest
 ## Visualization
-   - 
+![lbw_nbw_compare](https://user-images.githubusercontent.com/57408209/133417499-8bfb6424-3e94-4a2d-acd2-b0ec70d8713c.png)
+![fever_asthma](https://user-images.githubusercontent.com/57408209/133417534-d9af1197-66ab-4a2a-8243-80a15ec573e9.png)
+![anemia_percent](https://user-images.githubusercontent.com/57408209/133417628-34be916f-dca3-4078-858a-57ad1ee02afe.png)
+
+![fundal_height](https://user-images.githubusercontent.com/57408209/133417562-862dde3e-ba3d-4f69-9329-346125fde50f.png)
+![mother_age](https://user-images.githubusercontent.com/57408209/133417670-12ce2d22-0eac-4967-9667-498f7af11f52.png)
